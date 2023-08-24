@@ -1,4 +1,4 @@
-# <code-refactor-module1>
+## code-refactor-module1
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - My motivation for this project was to make the code easier to read and condense both the html and CSS files
